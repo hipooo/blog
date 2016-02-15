@@ -1,3 +1,7 @@
-/.git_github
-/node_modules
-/public
+.DS_Store
+Thumbs.db
+*.log
+node_modules/
+public/
+.deploy*/
+.git*/
