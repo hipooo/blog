@@ -2,11 +2,12 @@
 menu:
   主页: /
   所有文章: /archives
+  闲言碎语: /categories/闲言碎语/
 
 # SubNav
 subnav:
   github: "https://github.com/Jirry"
-  #weibo: "#"
+  weibo: "http://weibo.com/3963450983"
   rss: /atom.xml
   #zhihu: "#"
   #douban: "#"
