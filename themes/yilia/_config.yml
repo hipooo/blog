@@ -50,10 +50,10 @@ tagcloud: true
 #friends: false
 #开启——
 friends:
-  博客: http://localhost:4000/
+  azzwen: http://azzwen.github.io/
 
 #是否开启“关于我”。
 #不开启——
-#aboutme: false
+aboutme: false
 #开启——
-aboutme: 我是谁，我从哪里来，我到哪里去？我就是我，是颜色不一样的吃货…
+#aboutme: 我是谁，我从哪里来，我到哪里去？我就是我，是颜色不一样的吃货…
